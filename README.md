@@ -1,0 +1,1 @@
+High-performance SEO alt text generator with image analysis and keyword fusion.
